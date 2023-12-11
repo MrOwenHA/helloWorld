@@ -1,0 +1,1 @@
+	document.getElementById("dateLocation").innerHTML = Date();
