@@ -1,7 +1,11 @@
 # Hello World Assignment
 
-index.html
+## Objective: This assignment will demonstrate how HTML, CSS, and JavaScript work together.
 
+## Instructions: Type the code into the indicated files.
+
+### The following is the code for the "index.html" file:
+```
 <!DOCTYPE html>
 <html>
 
@@ -20,12 +24,9 @@ index.html
 </body>
 
 </html>
-
-
-
-
-style.css
-
+```
+### The following is the code for the "style.css" file:
+```
 html, body {
   height: 100%;
   width: 100%;
@@ -34,7 +35,6 @@ html, body {
 body {
   background-color: black;
   text-align: center;
-  
 }
 
 h1 {
@@ -51,10 +51,9 @@ img {
   max-width: 100%;
   height: auto;
 }
-
-
-
-script.js
-
+```
+### The following is the code for the "script.js" file:
+```
 const date = new Date();
 document.getElementById("dateLocation").innerHTML = date;
+```
