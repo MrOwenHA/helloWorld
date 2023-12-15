@@ -1,1 +1,2 @@
-	document.getElementById("dateLocation").innerHTML = Date();
+const date = new Date();
+document.getElementById("dateLocation").innerHTML = date;
