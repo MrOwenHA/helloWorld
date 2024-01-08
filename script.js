@@ -1,2 +1,2 @@
 const date = new Date();
-document.getElementById("dateLocation").innerHTML = date;
+document.getElementById("dateLocation").innerHTML = date.toDateString();
